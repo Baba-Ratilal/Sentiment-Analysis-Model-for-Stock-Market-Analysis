@@ -1,5 +1,3 @@
-# Sentiment-Analysis-Model-for-Stock-Market-Analysis
-
 # Sentiment Analysis for JPMorgan Chase's LOXM System
 
 ## Project Description
